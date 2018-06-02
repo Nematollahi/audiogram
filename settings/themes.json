@@ -94,7 +94,7 @@
     "width": 640,
     "height": 640,
     "samplesPerFrame": 64,
-    "waveTop": 200,
+    "waveTop": 30,
     "waveBottom": 20,
     "captionTop": 340,
     "captionLeft": 20,
